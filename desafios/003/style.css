@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+main {
+    min-width: 350px;
+    max-width: 850px;
+    display: block;
+    margin: auto;
+}
+
+img {
+    padding: 0px;
+    margin: 0px;
+} 

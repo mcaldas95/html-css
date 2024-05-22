@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+/*
+    ID em HTML = # em CSS
+    CLASS em HTML = . em CSS
+*/
+
+body {
+    background-color: #3F47FA;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: #87F558;
+}
+
+h2 {
+    color:#A6928A;
+}
+
+h1#principal {
+    text-align: center;
+    background-color: #87F558;
+    color: white;
+}
+
+.subtitulobasico {
+    color: #87F558;
+    font-weight: bold;
+}
+
+.subtitulointermediario {
+    color: yellow;
+    font-weight: bold;
+}
+
+.subtituloavancado {
+    color: red;
+    font-weight: bold;
+}
