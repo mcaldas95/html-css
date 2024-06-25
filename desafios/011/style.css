@@ -1,10 +1,16 @@
 body {
     background-image: url(imagens/espaco.jpg);
-    height: 100%;
+    width: 100%;
     min-width: 350px;
     max-width: 100%;
 }
 
 img {
-
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    padding: 230px;
+    min-width: 350px;
+    max-width: 100%;
 }
